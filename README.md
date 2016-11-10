@@ -1,4 +1,9 @@
 # DCU Lab
+
+## Dependencies
+opencv 2.0~  
+ros-indigo
+
 ## Installation
 git submodule init  
 git submodule update  
